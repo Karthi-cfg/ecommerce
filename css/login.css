@@ -1,0 +1,57 @@
+h3{
+    color: white!important;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.icon{
+    font-size: 25px;
+    color: yellow;
+}
+.forms{
+    width: 34%;
+    text-align: center;
+}
+.form-horizontal{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.crendetials{
+    border-radius: 47px;
+    margin-bottom: 15px;
+}
+
+.navigation{
+    background-color: #0d6efd;
+}
+.button{
+
+    color: #0d6efd;
+    outline: white;
+    background: white;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: white!important;
+
+}
+.button:active{
+    background-color: white!important;
+
+}
+.navlink{
+    color: white!important;
+    font-weight: bold;
+
+}
+.navs{
+    margin-left: 45px;
+}
+.lists{
+    margin-left: 40px;
+}
+.iconn{
+    color: white;
+}
